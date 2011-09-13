@@ -1,0 +1,86 @@
+.fl {
+    float:left
+}
+.fr {
+    float:right
+}
+.cl {
+    clear:left
+}
+.cr {
+    clear:right
+}
+.cb {
+    clear:both
+}
+
+body {
+    font-family:sans-serif
+}
+
+a img {
+    border:0px;
+}
+
+.jslink {
+    text-decoration:underline;
+    color:blue;
+    font-size:small;
+}
+
+.i {
+    font-style:italic;
+}
+
+.hint {
+    font-family:sans-serif;
+    padding:10px;
+    margin-top:5px;
+    color:Black;
+    background:LightGreen;
+    border:5px Green solid
+}
+
+.error {
+    font-family:sans-serif;
+    padding:10px;
+    margin-top:5px;
+    color:White;
+    background:LightCoral;
+    border:5px Crimson solid
+}
+
+.buffer {
+    font-family:sans-serif;
+    padding:10px;
+    margin-top:5px;
+    color:White;
+    background:LightSkyBlue;
+    border:5px DodgerBlue solid;
+    white-space:pre-wrap;
+}
+
+
+
+#infobar {
+    text-align:center;
+    font-size:small;
+}
+
+
+#joinform {
+
+}
+
+
+#loginform {
+
+}
+
+#groupform {
+
+}
+
+#registerform {
+
+}
